@@ -1,0 +1,9 @@
+.content{
+		font-size: 25upx;
+}
+button{
+	width: 40%;
+	color: white;
+	background: #CCCC33;
+	border-radius: 10upx;
+}
